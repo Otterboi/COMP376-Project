@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Boss
+  - Teleporter
+  - Waypoint
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Jumpable
+  - Wall
+  - Player
+  - Enemy
+  - Bullet
+  - Nightborne
+  - Teleporter
+  - 
+  - Background
+  - Healthbar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 3883173919
+    locked: 0
+  - name: Tiles
+    uniqueID: 3499439073
+    locked: 0
+  - name: Enemy
+    uniqueID: 1491496749
+    locked: 0
+  - name: Bullet
+    uniqueID: 479440005
+    locked: 0
